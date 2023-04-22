@@ -13,13 +13,13 @@ const MiddlePart = () => {
         50+ Direct Bookings in 90 Days!
       </p>
       <img src={upflight} alt= "upflight" className="upflight"/>
-      <img src={zigzak} alt= "upflight" className="zigzag"/>
+      <img src={zigzak} alt= "zigzak" className="zigzag"/>
       <img src={flag} alt= "upflight" className="flag"/>
 
       <button className="schedule_btn unlock_btn">Unlock my booking boost now</button>
 
       <div className="image_section">
-      <img src={ImageOne} alt="My Image" />
+      <img src={ImageOne} alt="imageone" />
       </div>
       <div className="footer_section">
 
