@@ -8,11 +8,11 @@ function Header() {
       <img src={logo} alt="Logo" className='logo' />
       <nav>
         <ul className='ul_list'>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">Our Services</a></li>
-          <li><a href="#">Case Studies</a></li>
-          <li><a href="#">Blog</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="/home">Home</a></li>
+          <li><a href="/service">Our Services</a></li>
+          <li><a href="/studies">Case Studies</a></li>
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="/contact">Contact</a></li>
 
           <button className='schedule_btn'>Schedule a call</button>
 
